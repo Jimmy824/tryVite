@@ -1,4 +1,7 @@
-.footer{
-  background: #69F0AE;
-  font-size: 64px;
+.footer-text{
+    text-align: center;
+    border-top: 1px solid $neutral-300;
+    padding-top: 32px;
+    font-size: 14px;
+    color: $neutral-600;
 }
